@@ -1,23 +1,19 @@
 # Sahil Arifi
 
-Mathematics and Computer Science student at UC San Diego, building software and ML systems. I am seeking Summer 2027 internships in software engineering and applied ML.
+I study Mathematics–Computer Science at UC San Diego. I started making small websites as a kid; now I build tools, games, and software systems that someone else can use. I'm looking for software engineering, frontend, and AI/ML internships.
 
-I work on inference services, computer vision data quality, retrieval evaluation, and interactive applications. My campus IT work focuses on Python automation, software deployment, and technical leadership.
+[Email](mailto:sahil.arifi2006@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sahil-arifi-96a65a1bb/) · [Warby.fun](https://warby.fun/) · [Kinetic Lab demo](https://kinetic-lab.netlify.app/)
 
-[LinkedIn](https://www.linkedin.com/in/sahil-arifi-96a65a1bb/) · [Try Kinetic Lab](https://kinetic-lab.netlify.app/) · [Try ExpensePilot](https://sahilsbudget.netlify.app/)
+## Selected work
 
-## Selected projects
-
-| Project | Engineering focus | Explore |
+| Project | What I worked on | Stack and evidence |
 | --- | --- | --- |
-| **Kinetic Lab** | Interactive 3D physics workshop with Rapier simulation in a dedicated worker, a fixed 120 Hz timestep, accessible controls, and browser tests. | [Code](https://github.com/Sahil-Arifi/kinetic-lab) · [Demo](https://kinetic-lab.netlify.app/) |
-| **Adaptive Inference Gateway** | FastAPI image inference with bounded queues, request deadlines, dynamic batching, PyTorch and ONNX backends, and measured throughput and latency. | [Code and benchmarks](https://github.com/Sahil-Arifi/adaptive-inference-gateway) |
-| **SplitGuard Vision** | Image dataset duplicate detection, preserved match evidence, repair of dataset splits by duplicate family, and controlled evaluation experiments. | [Code and results](https://github.com/Sahil-Arifi/splitguard-vision) |
-| **ExpensePilot** | Personal finance app with React, Firebase, Plaid transaction synchronization, receipt OCR, and an AI finance assistant. | [Code](https://github.com/Sahil-Arifi/finance_tracker) · [App](https://sahilsbudget.netlify.app/) |
-| **RAG Retrieval Bench** | Reproducible evaluation of token chunking, document retrieval, ranking metrics, and query latency using FAISS and NumPy. | [Code and reports](https://github.com/Sahil-Arifi/rag-retrieval-bench) |
+| [RAG Retrieval Bench](https://github.com/Sahil-Arifi/rag-retrieval-bench) | Compared BM25 with MiniLM and FAISS on SciFact, keeping per-query rankings and retrieval metrics so the tradeoffs are inspectable. | Python, SentenceTransformers, FAISS, BM25 · [Results](https://github.com/Sahil-Arifi/rag-retrieval-bench/tree/main/artifacts/scifact) |
+| [Adaptive Inference Gateway](https://github.com/Sahil-Arifi/adaptive-inference-gateway) | Built bounded request queues, deadline-aware dynamic batching, backend parity checks, and throughput and latency benchmarks. | FastAPI, PyTorch, ONNX Runtime, Prometheus · [Benchmark](https://github.com/Sahil-Arifi/adaptive-inference-gateway/blob/main/artifacts/report.md) |
+| [SplitGuard Vision](https://github.com/Sahil-Arifi/splitguard-vision) | Audited image datasets for exact and near-duplicate leakage and generated reviewable evidence before split repair. | Python, pHash, DINOv2, FAISS · [Code and report](https://github.com/Sahil-Arifi/splitguard-vision) |
+| [Kinetic Lab](https://github.com/Sahil-Arifi/kinetic-lab) | Built a browser physics editor with a 120 Hz Rapier simulation in a Web Worker, guarded worker messages, and scene editing. | TypeScript, React Three Fiber, Rapier · [Live editor](https://kinetic-lab.netlify.app/) |
+| [Warby.fun](https://warby.fun/) | Built a collection of daily games with shared navigation, rounds, and progress. I play it myself. | React, TypeScript, Firebase · [Live app](https://warby.fun/) (source private) |
 
-## Tools I use
+I also work on a local research application for reviewing ethmoid CT processing with a React/NiiVue interface and a Python/FastAPI pipeline. Its portfolio screenshots use only an isolated synthetic test volume; clinical accuracy is unmeasured and the research source is private.
 
-Python, TypeScript, JavaScript, React, Node.js, FastAPI, PyTorch, ONNX Runtime, FAISS, Firebase, Docker, and GitHub Actions.
-
-The project READMEs document setup, measured results, and current limitations. Benchmarks describe their datasets and test conditions so the results can be interpreted in context.
+The linked repositories include setup instructions, actual output, and the limits of each experiment.
