@@ -1,8 +1,8 @@
 # Sahil Arifi
 
-I study Mathematics–Computer Science at UC San Diego. I started making small websites as a kid; now I build tools, games, and software systems that someone else can use. I'm looking for software engineering, frontend, and AI/ML internships.
+I study Mathematics–Computer Science at UC San Diego. I started making small websites as a kid; now I build tools, games, and software systems that someone else can use. I'm looking for frontend and backend engineering internships.
 
-[Email](mailto:sahil.arifi2006@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sahil-arifi-96a65a1bb/) · [Warby.fun](https://warby.fun/) · [Kinetic Lab demo](https://kinetic-lab.netlify.app/)
+[Portfolio](https://sahilarifi.com/) · [Email](mailto:sahil.arifi2006@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sahil-arifi-96a65a1bb/) · [Warby.fun](https://warby.fun/) · [Kinetic Lab demo](https://kinetic-lab.netlify.app/)
 
 ## Selected work
 
@@ -14,6 +14,6 @@ I study Mathematics–Computer Science at UC San Diego. I started making small w
 | [Kinetic Lab](https://github.com/Sahil-Arifi/kinetic-lab) | Built a browser physics editor with a 120 Hz Rapier simulation in a Web Worker, guarded worker messages, and scene editing. | TypeScript, React Three Fiber, Rapier · [Live editor](https://kinetic-lab.netlify.app/) |
 | [Warby.fun](https://warby.fun/) | Built a collection of daily games with shared navigation, rounds, and progress. I play it myself. | React, TypeScript, Firebase · [Live app](https://warby.fun/) (source private) |
 
-I also work on a local research application for reviewing ethmoid CT processing with a React/NiiVue interface and a Python/FastAPI pipeline. Its portfolio screenshots use only an isolated synthetic test volume; clinical accuracy is unmeasured and the research source is private.
+I also work on a [local research application](https://sahilarifi.com/work/ethmoid-complexity) for reviewing ethmoid CT processing with a React/NiiVue interface and a Python/FastAPI pipeline. Its portfolio screenshots use only an isolated synthetic test volume; clinical accuracy is unmeasured and the research source is private.
 
 The linked repositories include setup instructions, actual output, and the limits of each experiment.
