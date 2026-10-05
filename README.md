@@ -1,6 +1,6 @@
 # Sahil Arifi
 
-I study Mathematics–Computer Science at UC San Diego. I started making small websites as a kid; now I build tools, games, and software systems that someone else can use. I'm looking for frontend and backend engineering internships.
+I study Mathematics–Computer Science at UC San Diego. I started making small websites as a kid; now I build tools, games, and software systems that someone else can use. I'm looking for software engineering and ML internships.
 
 [Portfolio](https://sahilarifi.com/) · [Email](mailto:sahil.arifi2006@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sahil-arifi-96a65a1bb/) · [Warby.fun](https://warby.fun/) · [Kinetic Lab demo](https://kinetic-lab.netlify.app/)
 
