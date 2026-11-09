@@ -14,6 +14,8 @@ I study Mathematics–Computer Science at UC San Diego. I started making small w
 | [Kinetic Lab](https://github.com/Sahil-Arifi/kinetic-lab) | Built a browser physics editor with a 120 Hz Rapier simulation in a Web Worker, guarded worker messages, and scene editing. | TypeScript, React Three Fiber, Rapier · [Live editor](https://kinetic-lab.netlify.app/) |
 | [Warby.fun](https://warby.fun/) | Built daily games with shared rounds and progress. The live site moves through interactive Word, Music, World, and Trivia scenes. I play it myself. | React, TypeScript, Firebase · [Live app](https://warby.fun/) (source private) |
 
-I also work on a [local research application](https://sahilarifi.com/work/ethmoid-complexity) for reviewing ethmoid CT processing with a React/NiiVue interface and a Python/FastAPI pipeline. Its portfolio screenshots use only an isolated synthetic test volume; clinical accuracy is unmeasured and the research source is private.
+I also work on a [local research application](https://sahilarifi.com/work/ethmoid-complexity) for reviewing ethmoid CT processing with a React/NiiVue interface and a Python/FastAPI pipeline. Its portfolio screenshots use an isolated synthetic test volume; clinical accuracy is unmeasured. The review app source and patient data remain private.
+
+A separate [public DICOM conversion pilot](https://github.com/Sahil-Arifi/ethmoid-complexity-pipeline) covers DICOM-to-NIfTI conversion, independent geometry and HU checks, and synthetic tests. It does not contain the review app.
 
 The linked repositories include setup instructions, actual output, and the limits of each experiment.
